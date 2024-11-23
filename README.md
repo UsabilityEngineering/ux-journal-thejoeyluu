@@ -4,9 +4,11 @@ My name is Joey Lu and I am a computer science student.
 
 ## UX Team Project
 
-![student id pic](https://github.com/user-attachments/assets/22a59ef9-dab6-4c07-83fd-e4c9a80b83a7)
+![github pic](https://github.com/user-attachments/assets/5daca6a3-f573-4a6f-af6e-7cbd2f61d38d)
+
+## j01
+![j01](https://github.com/UsabilityEngineering/ux-journal-thejoeyluu/tree/main/j01)
+
+![j01](https://usabilityengineering.github.io/ux-journal-thejoeyluu/j01/)
 
 
-## UX Journal
-
-[Replace with title of journal](j01/)
