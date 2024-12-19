@@ -8,6 +8,4 @@ My name is Joey Lu and I am a computer science student.
 
 ## j02/Dealing with Voice Assistants Can be Frustrating…BY JOEY LU 22nd of November 2024
 
-
-j01/README.md
-
+](https://github.com/UsabilityEngineering/ux-journal-thejoeyluu/tree/main/j01)
